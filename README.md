@@ -27,9 +27,9 @@ Hi, i'm a passionate developer with a growing foundation in cybersecurity and ba
 ### Languages ✍🏼
 <p>
   <img src="https://img.icons8.com/color/35/000000/c-sharp-logo.png"/> 
-  <img src="https://img.icons8.com/?size=100&id=KppI8aNv6oQe&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=BrDQnd5GDYa6&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/> 
+  <img src="https://img.icons8.com/?size=35&id=KppI8aNv6oQe&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=35&id=BrDQnd5GDYa6&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=35&id=13441&format=png&color=000000"/> 
 </p>
 
 ### DevOps & Cloud Tools ⚒️
